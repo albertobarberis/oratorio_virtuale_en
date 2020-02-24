@@ -17,6 +17,10 @@ body:img{
     color: rgb(255, 255, 255)!important;
 }
 
+.video_container{
+    margin-bottom: 3em;
+}
+
 .text_border{
     background-color: rgba(0, 0, 0, 0.7);
     padding-right: 5px;
@@ -34,8 +38,8 @@ p{
 }
 
 .strumentazione{
-    padding-top: 0.5em;
-    font-size: 0.3em;
+    padding-top: 0.1em;
+    font-size: 0.5em;
     /* text-shadow: 2px 2px 12px #000000; */
     line-height: 150%;
 }
@@ -181,7 +185,7 @@ ol{
 }
 
 .title{
-    background-color:rgba(0, 0, 0, 0.3)!important;
+    background-color:rgba(0, 0, 0, 0.6)!important;
     /* background-repeat: no-repeat; */
     background-size: 100% 100%;
     /* text-shadow: 2px 2px 8px #424242; */
@@ -190,8 +194,8 @@ ol{
     /* opacity: 0.95; */
 
     color: white;
-    padding: 0.2em;
-    padding-bottom: 0.3em;
+    padding: 0.4em;
+    padding-bottom: 0.2em; 
     font-size: 2.5em;
     
     margin-top: 5px;
@@ -215,7 +219,7 @@ ol{
     /* box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3); */
     padding-top: 0px;
     padding-bottom: 0px;
-    background-color:rgba(0, 0, 0, 0.3)!important;
+    background-color:rgba(0, 0, 0, 0.6)!important;
     /* border-radius: 6px; */
     font-size: 0.8em;
     color: white;
@@ -264,7 +268,7 @@ audio{
     width: 100%;
     margin-bottom: 0px;
     margin-top: 10px;
-    box-shadow: 0px 0px 20px -3px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 20px -3px rgba(0, 0, 0, 0.6);
     border: 0px;
 }
 
